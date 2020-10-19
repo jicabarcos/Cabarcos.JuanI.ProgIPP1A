@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1603111539 source:c:\users\intel\documents\github\cabarcos.juani.progipp1a\cabarcos.juani.progipp1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1603111563 c:\users\intel\documents\github\cabarcos.juani.progipp1a\cabarcos.juani.progipp1a\funciones.h
+
+1603111580 source:c:\users\intel\documents\github\cabarcos.juani.progipp1a\cabarcos.juani.progipp1a\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
